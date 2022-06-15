@@ -10,18 +10,20 @@
 
 body{
 margin-top: 2rem;
-margin-left:14.2rem;
+margin-left:13.2rem;
 line-height: 1.5;
 font-size: 15px;
 font-weight: 400;
 background-color: hsl(0, 0%, 95%);
 }
+
 .container{
 display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
 }
+
 h2{
 font-family: 'Kdam Thmor Pro', sans-serif;
 font-size: 2.5rem;
